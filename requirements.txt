@@ -1,0 +1,15 @@
+langchain
+langsmith 
+groq 
+requests 
+networkx 
+matplotlib 
+python-dotenv
+graphviz
+openai
+langchain-openai
+langchain-core
+langchain-community
+langchain_huggingface
+langchain-groq
+langgraph
